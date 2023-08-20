@@ -1,0 +1,13 @@
+:root {
+  --bg: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+}
+
+.kobti {background: var(--bg), url('/img/kobman.gif') center / cover;}
+.zain {background: var(--bg), url('/img/zain.gif') center / cover;}
+.monke {background: var(--bg), url('/img/monke.gif') center / cover;}
+.bones {background: var(--bg), url('/img/skeleton.gif') center / cover;}
+.akshat {background: var(--bg), url('/img/akshat.gif') center / cover;}
+.melon {background: var(--bg), url('/img/melon.gif') center / cover;}
+.isaac {background: var(--bg), url('/img/isaact.gif') center / cover;}
+.rickroll {background: var(--bg), url('/img/rickroll.gif') center / cover;}
+.footlong {background: var(--bg), url('/img/footlong.gif') center / cover;}
